@@ -1,5 +1,5 @@
 # Java-RMI
-Third project of the Advanced Programming course took in Spring 2017
+Third project of the Advanced Programming course taken in Spring 2017
 
 The goal of this project was to implement Remote Method Invocation in java. The client will invoke a method that resides on the server side.
 
